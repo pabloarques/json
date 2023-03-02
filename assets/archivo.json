@@ -1,0 +1,18 @@
+[
+  {
+    "foto": "https://example.com/foto1.jpg",
+    "usuario": "usuario1",
+    "mensaje": "Este es el primer mensaje"
+  },
+  {
+    "foto": "https://example.com/foto2.jpg",
+    "usuario": "usuario2",
+    "mensaje": "Este es el segundo mensaje"
+  },
+  {
+    "foto": "https://example.com/foto3.jpg",
+    "usuario": "usuario3",
+    "mensaje": "Este es el tercer mensaje"
+  }
+]
+
